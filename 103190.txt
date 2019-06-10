@@ -1,0 +1,755 @@
+Ciclismo en ruta
+
+[[Archivo:Cycling (road) pictogram.svg|thumbnail]]
+El '''Ciclismo en Ruta''' o '''Ciclismo en Carretera''' es una modalidad de [[Ciclismo de Competición]] que consiste en Competir en Carretera, a diferencia del [[Ciclismo en Pista]] que queda reducido al óvalo del [[velódromo]] u otras modalidades que no se disputan sobre asfalto. El Ciclismo en Ruta es un deporte muy exigente y no debe ser confundido con el [[cicloturismo]], a pesar de que en él también se pueda dar cierto nivel de exigencia competitiva, pero se presupone que hay que ser totalmente autónomo sin asistencias al contrario que en el Ciclismo en Ruta que está todo mucho más controlado.[[Archivo:EVD-ciclismoruta-006.jpg|275px|thumb|Ciclismo en Ruta.]] 
+
+El Ciclismo en Ruta suele tener lugar a partir de la primavera hasta el otoño en el [[hemisferio norte]]. Muchos ciclistas del hemisferio norte pasan el invierno en países como [[Australia]] y [[Argentina]] para competir o entrenar. La gama de carreras profesionales de la [[Unión Ciclista Internacional]] van desde las de tres semanas llamadas "[[Grandes Vueltas]]" ([[Tour de Francia]], [[Giro de Italia]] y [[Vuelta a España]]) a las clásicas de un día. Sin embargo, el Ciclismo en Ruta también se da a modo aficionado (''amateur'') o amistoso de exhibición mediante diferentes pruebas como pueden ser los [[critérium]]s (carreras urbanas de poco kilometraje).
+
+== Etimología ==
+Se suelen utilizar indistintamente ambos términos para referirse a la modalidad. El término "ciclismo en ruta" viene de [[idioma francés|francés]] ''route'' y del [[idioma inglés|inglés]] ''road'' (idiomas más usados en el ámbito profesional ciclista) cuya traducción correcta es '''carretera''' por lo que ese término se suele usar indistintamente para todas las especialidades disputadas en carreteras. Sin embargo, a menudo, para diferenciar la especialidad de [[contrarreloj (ciclismo)|contrarreloj]] de la más habitual disputada todos juntos en [[pelotón (ciclismo)|pelotón]] se suele hablar de '''ciclismo en ruta''' para referirse a esta especialidad; para estos casos también es utilizado el término ''etapa en línea'' a contraposición de ''etapa contrarreloj''.
+
+== Historia ==
+=== De las primeras pruebas al profesionalismo ===
+La primera prueba ciclista de la historia a modo competitivo registrada se disputó el [[31 de mayo]] de [[1868]] en un pequeño circuito de 1.200 metros en el parque de Saint-Cloud, a las afueras de [[París]], en la que participaron 7 ciclistas y fue ganada por el expatriado [[Gran Bretaña|británico]] [[James Moore (ciclista)|James Moore]]<ref> {{Cita web|url=http://www.mundocaracol.com/bicicletos/historia.asp|título=Historia de la bicicleta|fechaacceso=2 de enero de 2012|editor=mundocaracol.com|idioma=francés|urlarchivo=https://web.archive.org/web/20111229233136/http://www.mundocaracol.com/bicicletos/historia.asp|fechaarchivo=29 de diciembre de 2011}} </ref> con una bicicleta de madera de [[bicicleta de piñón fijo|piñón fijo]] y [[Rueda de bicicleta|ruedas de hierro]].<ref>Maso, B. (tr. Horn, M.) (2005), ''The Sweat of the Gods'', Mousehold Press, pp. 1–2, (en Inglés)  ISBN 1-874739-37-4</ref>
+
+Un año después se disputó la primera carrera propiamente dicha, concretamente el [[7 de noviembre]] de [[1869]], entre [[París]] y [[Rouen]]. En ella participaron un centenar de ciclistas con el objetivo de culminar o ganar la prueba consistente en 123 km. Finalmente la lograron acabar 33. De nuevo británico James Moore ganó la prueba con un tiempo de 10 horas y 45 minutos. La intención de los organizadores fue demostrar que la bicicleta valía como medio de transporte para largas distancias.<ref> {{Cita web|url=http://www.uci.ch/templates/UCI/UCI1/layout.asp?MenuId=MTI4ODY|título=Route-HISTORIQUE|fechaacceso=31 de diciembre de 2011|editor=[[Unión Ciclista Internacional|UCI]]|idioma=francés|urlarchivo=https://web.archive.org/web/20130206222729/http://www.uci.ch/templates/UCI/UCI1/layout.asp?MenuId=MTI4ODY|fechaarchivo=6 de febrero de 2013}} </ref>
+
+==== Primeras organizaciones ciclistas ====
+Las primeras asociaciones ciclistas se crearon en [[Florencia]] ([[Italia]]) el [[15 de enero]] de [[1870]] y en [[Holanda]] en [[1871]] y posteriormente en [[Gran Bretaña]] y en [[España]] (Sociedad Velocipedista Madrileña y el Club Velocipédico de Cádiz) en [[1878]] pero fueron asociaciones humildes de pequeños clubs. La primera asociación nacional fue la francesa en [[1881]] que creó el primer campeonato francés de ciclismo.[[Archivo:Masson flameng.jpg|thumb|275px|[[Paul Masson]] y [[Léon Flameng]], dos de los primeros ciclistas profesionales.]]
+
+En [[1892]] se creó la ''International Cycling Association''  (ICA) (Asociación Internacional de Ciclistas) en [[Londres]], creada por un profesor de Inglés llamado Henry Sturmey, el fundador de [[Sturmey-Archer]], siendo la primera asociación internacional de ciclismo, Se inauguró en 1893 y celebró su primer campeonato del mundo en [[Chicago]], Estados Unidos, el mismo año. Pero divergencias entre los países que la formaban produjo que el [[14 de abril]] de [[1900]] (durante los Juegos Olímpicos de París) se crease la [[Unión Ciclista Internacional|''Union Cycliste Internationale'' (UCI)]], (Unión Ciclista Internacional) actual organismo rector, fundado en [[París]]. Los integraron las federaciones nacionales de [[Francia]], [[Bélgica]], [[Estados Unidos]], [[Italia]] y [[Suiza]].<ref name="historia UCI">{{Enlace roto|1={{Cita web |url=http://www.federacionciclistauruguaya.com.uy/uci-historia.html |título=Unión Ciclista Internacional - Historia |fechaacceso=2 de enero de 2012 |editor=Federación Ciclista Uruguaya }} |2=http://www.federacionciclistauruguaya.com.uy/uci-historia.html |bot=InternetArchiveBot }}</ref> [[Gran Bretaña]] no fue inicialmente un miembro, pero se unió en 1903. En [[España]] el primer organismo ciclista nacional fue la Unión Velocipédica Española creada en [[1895]].
+
+Estas asociaciones se basaban prácticamente en el [[ciclismo en pista]] y ciclismo en ruta ya que apenas existían otras modalidades. Sin haber ningún tipo de especialización ya que los corredores disputaban indistintamente ambas disciplinas desde los 333 metros de pista hasta los más de 100 kilómetros de la ruta. Sin embargo, se puede decir que el ciclismo en pista cogió cierta ventaja al organizarse su primer mundial en [[1895]], contando con pruebas de velocidad y medio fondo, ya que al disputarse en un [[velódromo]] se podía controlar mejor aparte de poder cobrar entrada.
+
+==== JJOO, Monumentos, Grandes Vueltas y mundiales ====
+En 1896 se disputó la primera prueba en ruta de los [[Juegos Olímpicos]] consistiendo en un circuito de ida y vuelta entre [[Atenas]] y [[Maratón]] de unos 87 km. Mientras en el [[ciclismo en pista]] ya se disputaron 5 pruebas. Sin embargo, ya no se volvió a disputar olímpicamente la disciplina en ruta hasta 16 años después en los [[Anexo:Ciclismo en los Juegos Olímpicos de Estocolmo 1912|Juegos Olímpicos de Estocolmo 1912]] donde se disputaron 2 pruebas en ruta por ninguna en pista, siendo la única vez que no se disputaron pruebas en pista debido al derribo del antiguo [[velódromo]] de [[Estocolmo]].
+
+Entre 1890 y 1915 nacieron grandes pruebas de ciclismo en ruta, que con el paso de los años se han convertido en ''[[Monumento (ciclismo)|monumentos]]'', algunas hoy todavía existentes.<ref>{{Cita web |url=http://www.randonneurs.es/pbp/pbphistorias/historia.php |fechaacceso=3 de enero de 2012 |editor=randonneurs.es |título=Historia de la París-Brest-París}}</ref>
+
+===== Pruebas en España y América =====
+En [[España]] las primeras pruebas estatales surgirían de un colectivo de fabricantes de bicicletas de [[Éibar]] durante la [[Segunda República Española|República]]. Desde 1932 a 1935 se celebró la [[G. P. República|Éibar-Madrid-Éibar]] en 4 etapas, antesala de la [[Vuelta a España]]. Si bien anteriormente ya se habían disputado carreras en pequeños clubs, siendo oficialmente los más antiguos la [[Volta a Tarragona]] (1908), [[Volta a Cataluña]] (1911) y [[Clásica de Ordizia]] (1922) debido a la influencia francesa al estar próximo a dicha frontera.
+
+En [[América]] la primera carrera registrada fue la [[Vuelta Ciclista del Uruguay]] cuya primera edición fue en 1939.
+
+==== Acotación de pruebas profesionales ====
+Debido a las numerosas pruebas que se iban creando se vio necesario crear unos límites de kilometraje y duración en ellas para una mejor organización. Así muchas de las carreras superiores a los 300 km dejaron de ser profesionales (la [[París-Brest-París]] en 1951). Mientras otras se ajustaron a dichos límites que cada vez fueron más estrictos.
+
+También se abolieron categorías semi-profesionales ambiguas, como la [[Independiente (ciclismo)|Independiente]], que eran corredores sin equipo que aprovechaban ese ''status'' para participar en carreras profesionales que permitiesen ese tipo de corredores. Que posteriormente fueron considerados como ''amateurs'' (aficionados).
+
+==== FIAC y FIC ====
+En [[1965]], bajo la presión del [[Comité Olímpico Internacional]], la UCI ([[Unión Ciclista Internacional]]) se dividió en la "Federación Internacional Amateur de Ciclismo" (FIAC) y la "Federación Internacional de Ciclismo Profesional" (FICP), coordinando ambas instituciones. La amateur se fijó en [[Roma]], la profesional en [[Luxemburgo]], y la UCI en [[Ginebra (Suiza)|Ginebra]].
+
+La Federación Amateur era la más extensa de ambas organizaciones, con 127 miembros por los cinco continentes. Era dominada por los países del [[Europa Oriental|este europeo]], que eran básicamente amateurs. Además, representaba al ciclismo en los [[Juegos Olímpicos]], y solo competían contra los miembros de la Federación Profesional en raras ocasiones.
+
+En [[1992]], la UCI unificó a la FIAC y la FICP, fusionándose dentro de la UCI. La organización conjunta se trasladó a [[Lausana]].<ref name="historia UCI"/>
+
+=== Ranking UCI (1984-) y Copa del Mundo (1989-2004) ===
+{{AP|Ranking UCI|Copa del Mundo de Ciclismo}}
+==== La instauración de las divisiones (1997-2004) ====
+Con la expansión de la bicicleta fuera de Europa y el creciente número de equipos, el número de ellos se había vuelto demasiado grande y por ende difícil de organizar. Para ello la UCI dividió a estos en divisiones dependiendo de su potencial.
+
+==== Copa del Mundo femenina (1998-2015) ====
+{{AP|Copa del Mundo de Ciclismo femenina}}
+De cara a la potenciación del ciclismo femenino la UCI repitió la fórmula del ciclismo masculino y desde 1998 organiza la Copa del Mundo femenina con las mejores pruebas de un día para corredoras femeninas.
+
+=== Creación del UCI ProTour y los Circuitos Continentales UCI (2005-) ===
+{{AP|UCI ProTour|Circuitos Continentales UCI|UCI WorldTour}}
+
+De cara al 2005 se creó el circuito [[UCI ProTour]] lo que produjo una reestructuración de las categorías de carreras y equipos, mientras las carreras más importantes pasaron a ese circuito con un rango de importancia y valor dependiendo su nivel (4 categorías), el resto pasaron a los [[Circuitos Continentales UCI]] que se dividía en 3 categorías, por las 9 en total que había anteriormente ([[Tour de Francia]], otras [[Grandes Vueltas]], carreras de la [[Copa del Mundo de Ciclismo|Copa del Mundo]], carreras .HC y otras carreras desde .1 hasta la .5).<ref group="otras" name=otras>Las carreras "especiales" como los Campeonatos Mundiales, Campeonatos Olímpicos, Campeonatos Continentales y Campeonatos Nacionales mantuvieron un baremo de puntuación diferenciado y puntuaban en alguna de estas clasificaciones a pesar de no aparecer en sus calendarios.</ref> Aunque cada uno de esos Circuitos Continentales está integrado en cada continente siendo el europeo ([[UCI Europe Tour]]) el más estricto en sus normas de participación.
+
+Los cambios sufridos en las categorías fueron los siguientes:<ref group="otras" name="otras"/>
+{|class="sortable wikitable"
+|- style="background:#ccccff;"
+!Categoría antes del 2005
+!Categoría desde el 2005
+|-
+| <center>'''GT''' ([[Grandes Vueltas]])
+| <center>[[UCI ProTour]] (posteriormente [[UCI WorldTour]])
+|-
+| <center>'''CM''' ([[Copa del Mundo de Ciclismo|Copa del Mundo]]
+| <center>[[UCI ProTour]] (posteriormente [[UCI WorldTour]])
+|-
+|-
+| <center>'''.HC'''<ref>La única carrera .HC que no ascendió al [[UCI ProTour]] fue el [[Giro de Lazio]].</ref>
+| <center>[[UCI ProTour]] (posteriormente [[UCI WorldTour]])
+|-
+| <center>'''.1'''
+| <center>'''.HC''' ([[Circuitos Continentales UCI]])
+|-
+| <center>'''.2 y .3'''
+| <center>'''.1''' ([[Circuitos Continentales UCI]])
+|-
+| <center>'''.4''' y ''' .5'''
+| <center>'''.2''' ([[Circuitos Continentales UCI]])
+|}
+<small>
+{{listaref|group="otras"}}
+</small>
+
+Tras esta reestructuración también se eliminó la categoría amateur de máximo nivel (2.6 o 1.6 y 1.7.1 o 2.7.1) que pasaron a categoría profesional .2; mientras las femeninas se simplificaron pasando de la .9.1 a la .1 y de la .9.2 a la .2 introduciéndose en 2013 la categoría 2.HC<ref>[http://elpeloton.net/2013/09/il-giro-del-traffico-e-il-caos/ ‘Il Giro del traffico ed il caos’]</ref> que solo estuvo ese año.
+
+En cuanto a las categorías de los equipos estos pasaron de GS1 a [[UCI ProTeam]] (con un límite de 20 contra los 24 que había anteriormente), de GS2 a [[Circuitos Continentales UCI#Profesionales Continentales|Profesional Continental]] y de GS3 a [[Circuitos Continentales UCI#Continentales|Continental]]. Donde la "GS" significaba ''Groupes sportifs''. En cuanto al ciclismo femenino apenas estuvo afectado por esta reestructuración y todos siguieron con una categoría única con los requisitos de los equipos masculinos [[Circuitos Continentales UCI#Equipos Continentales|Continentales]].
+
+== Las pruebas ==
+{{AP|Categoría:Competiciones de ciclismo en ruta}}
+El ciclismo en ruta propone cuatro tipos de prueba: las clásicas, las carreras por etapas, las pruebas contrarreloj individual y las contrarreloj por equipos; aunque frecuentemente a las contrarreloj se les ha omitido el calificativo de "ruta" para diferenciarlas de la mayoría de pruebas que se corren en pelotones, es decir, todos los corredores juntos. Existen, además, múltiples variantes dentro de estas pruebas, según se desarrollen con recorridos muy llanos, como en la clásica [[París-Tours]], ondulados, como sucede en las clásicas que se corren en las [[Ardenas]], o montañosos, como en las carreras [[Alpes|alpinas]] y [[Pirineos|pirenaicas]].
+
+Hay que destacar que en los más de cien años de pruebas ciclistas, los únicos que han conseguido ganar las tres [[Grandes Vueltas]] ([[Tour de Francia]], [[Giro de Italia]] y la [[Vuelta a España]]) y el [[Ruta élite masculina en el Campeonato Mundial de Ruta|Campeonato del Mundo]] han sido [[Eddy Merckx]], [[Bernard Hinault]] y [[Felice Gimondi]]. [[Jacques Anquetil]] se quedó cerca: fue segundo en el Campeonato del Mundo.
+
+=== Las clásicas ===
+{{AP|Clásicas (ciclismo)}}
+Las pruebas que se desarrollan en un solo día son llamadas a menudo ''clásicas'' (aunque algunos solo suelen utilizar ese apelativo cuando la carrera en cuestión es de gran prestigio internacional utilizando en ese otro caso el nombre de ''carreras de un día'' o el de ''semiclásicas'') y forman parte de las ''carreras en línea''. Las más prestigiosas, también conocidas como ''[[Monumento (ciclismo)|monumentos]]'', son (en el orden en que se suelen disputar): la [[Milán-San Remo]], el [[Tour de Flandes]], la [[París-Roubaix]], la [[Lieja-Bastoña-Lieja]] y el [[Giro de Lombardía]]. Además de estas, existen otras pruebas que, sin llegar a tener la tradición de las anteriores, también gozan de un enorme prestigio: la [[Gante-Wevelgem]], la [[Amstel Gold Race]], la [[Flecha Valona]], la [[HEW Cyclassics]], la [[Clásica de San Sebastián]], la [[París-Tours]] o el ya desaparecido [[Campeonato de Zúrich|Gran Premio de Zúrich]].[[Archivo:Henninger Turm-2005-Finale-Runde2-Spitzengruppe.jpg|275px|thumb|Corredores en el [[Gran Premio de Fráncfort]] 2005, en [[Alemania]].]]
+
+Siete corredores han conseguido el ''fin de semana ardenés'' (doblete [[Flecha Valona]]-[[Lieja-Bastoña-Lieja]]): [[Ferdi Kubler]] ([[1951]], [[1952]]), [[Stan Ockers]] ([[1955]]), Eddy Merckx ([[1972]]), [[Moreno Argentin]] ([[1991]]), [[Davide Rebellin]] ([[2004]]), [[Alejandro Valverde]] ([[2006]]) y [[Philippe Gilbert]] ([[2011]]). En el caso de los dos primeros fue un ''fin de semana'' real, mientras que los restantes lo hicieron en el plazo de los cuatro días que separan en la actualidad ambas pruebas.
+
+Diez son los corredores que, con una semana de distancia, han ganado el prestigioso doblete del ''pavés'' ([[Tour de Flandes]]-[[París-Roubaix]]): [[Henri Suter]] ([[1923]]), [[Romain Gijssels]] ([[1932]]), [[Gaston Rebry]] ([[1934]]), [[Raymond Impanis]] ([[1954]]), [[Alfred de Bruyne]] ([[1957]]), Rik Van Looy ([[1962]]), [[Roger De Vlaeminck]] ([[1977]]), [[Peter Van Petegem]] ([[2003]]), [[Tom Boonen]] ([[2005]]) y [[Fabian Cancellara]] ([[2010]] y [[2013]]).
+
+Por su parte, en [[2004]] el italiano [[Davide Rebellin]] llevó a cabo un inédito triplete, pues al ''fin de semana ardenés'' añadió la [[Amstel Gold Race]], ganando tres pruebas mayores consecutivas. Esta racha sólo ha sido igualada otra vez más, en [[2011]], siendo protagonista el belga [[Philippe Gilbert]]. A estas tres carreras se le ha venido a llamar el ''tríptico de las [[Ardenas (región)|Ardenas]]'' ([[clásicas de las Ardenas]]).
+
+No son este tipo de carreras las que más triunfos han dado al ciclismo español, pues no gozan en España del prestigio que estas pruebas merecen. La única de las clásicas de máximo nivel (puntuable para la [[Copa del Mundo de Ciclismo|Copa del Mundo]] y sus sucesoras) en la que los españoles tienen un papel relevante es la de [[Clásica de San Sebastián|San Sebastián]]. En las demás, a [[Miguel Poblet]], ganador de este tipo de pruebas en los [[años 1950|años 50]], hay que añadir en época más reciente a [[Juan Antonio Flecha]], [[Óscar Freire]] y [[Alejandro Valverde]] como ganadores de grandes clásicas fuera de España. Sin embargo, ningún español ha ganado nunca ni el [[Tour de Flandes]], ni la [[París-Roubaix]]. Esto se puede deber a que tradicionalmente los ciclistas españoles, e hispanos en general, se han amoldado más a las pruebas de alta montaña, como la desaparecida [[Clásica de los Alpes]].
+
+=== Las carreras por etapas ===
+[[Archivo:La Vuelta en Santander.jpg|thumb|275px|[[Vuelta a España|La Vuelta a España]] a su paso por [[Santander (Cantabria)|Santander]].]]
+Las carreras que se disputan a lo largo de varios días, y que cuentan con varias partes, son carreras por etapas. Los tiempos obtenidos en el curso de cada etapa se suman para dar lugar a una '''clasificación general''' por tiempo. Muchas de estas pruebas cuentan también con otras clasificaciones complementarias: clasificación por puntos (en la que cada puesto en la llegada conlleva un determinado número de puntos, independientemente de las distancias marcadas), [[clasificación de la montaña]] (cada cota otorga un número determinado de puntos), en puntos determinados (metas volantes, o ''intergiros''), para jóvenes (generalmente menores de 25 años), para los primeros clasificados de una determinada nacionalidad o región (en general, aquella en la que se organiza la prueba), o por equipos (en la que se suele contar el tiempo de los tres primeros).
+
+El [[Tour de Francia]], el [[Giro de Italia]] y la [[Vuelta a España]] son las más importantes, con una duración de tres semanas. Se las conoce también como ''Grandes Vueltas''. Otras carreras por etapas pueden durar desde dos a quince días, y su importancia viene determinada por su catalogación [[Unión Ciclista Internacional|UCI]]. En el [[año 2005]] el sistema de clasificación fue sustituido por rangos, diferenciando las encuadradas en el [[UCI ProTour]] (clasificación mundial) y las encuadradasen los [[Circuitos Continentales UCI]] (clasificaciones continentales).
+
+[[Eddy Merckx]] es el único corredor que ha triunfado en once ediciones de alguna de las tres grandes vueltas nacionales ([[Bernard Hinault]] diez, [[Jacques Anquetil]] ocho, [[Fausto Coppi]] y [[Miguel Indurain]] y [[Alberto Contador]]  siete, [[Gino Bartali]], [[Alfredo Binda]] y [[Felice Gimondi]] cinco...)
+
+El doblete Tour de Francia/Giro de Italia en el mismo año ha sido conseguido por Eddy Merckx (tres veces), Fausto Coppi, Bernard Hinault y Miguel Indurain (dos veces), Jacques Anquetil, [[Stephen Roche]] y [[Marco Pantani]]. El doblete Tour de Francia/Vuelta a España en el mismo año lo consiguieron Jacques Anquetil, Bernard Hinault y el británico Chris Froome. [[Giovanni Battaglin]] logró en 1981 el doblete Giro de Italia/Vuelta a España, y el español [[Alberto Contador]] lo logró en 2008.
+
+Bernard Hinault tiene también el récord de haber triunfado en las tres Grandes Vueltas en su primera participación.
+
+=== Las carreras contrarreloj ===
+{{AP|Contrarreloj (ciclismo)|l1=Contrarreloj}}
+{{AP|Categoría:Competiciones de ciclismo contrarreloj}}
+[[Archivo:Ivan Basso 2005 TdF Stage 20 St Etienne ITT.jpg|thumb|right|Un ciclista en la [[Contrarreloj (ciclismo)|carrera contrarreloj]] de la vigésima etapa del [[Tour de Francia 2005]].]]
+
+Las [[Contrarreloj (ciclismo)|carreras contrarreloj]] constituyen la tercera gran familia de carreras en carretera.  A diferencia de lo que ocurre en las carreras en línea, clásicas o por etapas, las pruebas contrarreloj se disputan en solitario, con salidas separadas de minuto en minuto en las distancias más cortas (menos de 30 km) o de dos en dos e incluso de tres en tres minutos para distancias superiores.
+
+Desde mediados de los [[años 1990]], hay también un [[Campeonato del Mundo de ciclismo|Campeonato del Mundo]] destinado a corredores en esta especialidad. En las pruebas por etapas siempre suele haber una o varias pruebas contrarreloj, dependiendo por lo general de su duración.
+
+Durante los [[años 1960]] y [[Años 1970|1970]], existía una modalidad de contrarreloj en la cual se corría detrás de una motocicleta, la cual reducía considerablemente la resistencia del aire y hacía rodar a los ciclistas a mayores velocidades.
+
+Aparte de las grandes vueltas y el Campeonato del Mundo, la carrera contrarreloj más prestigiosa era el [[Gran Premio de las Naciones]], celebrado desde 1932 hasta 2004. [[Jacques Anquetil]] es el ciclista que más veces triunfó en esta prueba con nueve conquistas, seguido de [[Bernard Hinault]] con cinco. Luego de su desaparición, la carrera contrarreloj prueba es el [[Chrono des Nations]].
+
+Los mejores [[rodador]]es abordan a veces el [[récord de la hora]], la cual se realiza en [[velódromo]]s.
+
+Durante los [[años 1990]], las contrarrelojes han sido las pruebas que más se han beneficiado del avance tecnológico, ya sea con la inserción de elementos especialmente diseñados, como [[manillar]]es o [[rueda]]s, o en la modificación de las bicicletas, favoreciendo así posturas más [[aerodinámica]]s.
+
+=== Contrarreloj por equipos ===
+{{AP|Categoría:Competiciones de ciclismo contrarreloj por equipos}}
+Otra variante de las carreras contrarreloj son su modalidad por equipos. Cada equipo corre agrupado, con salidas separadas por un tiempo determinado. El tiempo que se cuenta es el del cuarto o quinto corredor que cruza la meta. Una gran vuelta cuenta a menudo con una etapa de esta modalidad.
+
+==== Otras ====
+{{AP|Categoría:Competiciones de ciclismo contrarreloj por parejas}}
+Además existe otra modalidad, mucho menos habitual, que es la contrarreloj por parejas. La prueba más destacada (hasta su desaparición) de esta modalidad era el [[G. P. Eddy Merckx]]. También hubo contrarreloj por tríos como prólogo en la [[Vuelta a España]] y en el [[Tour de Francia]], el último en el [[Tour de Francia 1988]].
+
+=== Cronología de las principales pruebas ciclistas masculinas ===
+A lo largo de la historia ha habido centenares de pruebas de ciclismo en ruta masculinas, siendo las más importantes o significativas las siguientes, ordenadas por tipo y orden de creación:
+==== Clásicas ====
+{| class="wikitable sortable"
+|-
+!Carrera
+!Años
+!Características destacadas
+|-bgcolor=LightPink
+| {{Bandera|FRA}} [[París-Rouen]]
+| 1869-2009
+| Considerada como la primera prueba ciclista
+|-
+| {{Bandera|ITA}} [[Milán-Turín]]
+| 1876-
+| Una de las primeras pruebas ciclistas y considerada la más antigua en activo
+|-
+| {{Bandera|FRA}} [[París-Brest-París]]
+| 1891-
+| Una de las primeras pruebas ciclistas. Considerada como una de las clásicas más largas (tiene cerca de los 1200 km) por ello desde 1951 fue considerada no profesional teniendo la consideración de "ultramaratón ciclista" (''[[randonneur]]'')
+|-bgcolor=LightPink
+| {{Bandera|FRA}} [[Burdeos-París]]
+| 1891-1988
+| Una de las primeras pruebas ciclistas. Considerada como una de las clásicas más largas (la segunda mitad de la carrera, de unos 600 km, se hacía tras una moto llamada Derny)
+|-
+| {{Bandera|BEL}} '''[[Lieja-Bastoña-Lieja]]'''
+| 1892-
+| ''[[Monumento (ciclismo)|Monumento]]''. Una de las primeras pruebas ciclistas
+|-bgcolor=LightPink
+| {{Bandera|FRA}} {{Bandera|BEL}} [[París-Bruselas]]
+| 1893-
+| Considerada como la primera prueba ciclista que cruza varios países
+|-
+| {{Bandera|AUS}}  [[Melbourne to Warrnambool Classic]]
+| 1895-
+| Una de las primeras pruebas ciclistas y considerada la más antigua de Oceanía
+|-
+| '''{{Bandera|FRA}} [[París-Roubaix]]'''
+| 1896-
+| ''[[Monumento (ciclismo)|Monumento]]''. Una de las primeras pruebas ciclistas
+|-
+| {{Bandera|FRA}} [[París-Tours]]
+| 1896-
+| Perteneciente a la antigua [[Copa del Mundo de Ciclismo|Copa del Mundo]] y al [[UCI ProTour]]. Una de las primeras pruebas ciclistas
+|-
+| [[Archivo:Olympic flag.svg|25px]] '''Prueba en Ruta de los Juegos Olímpicos'''
+| 1896-
+| Primera prueba de ciclismo en ruta en los [[Juegos Olímpicos]]. Una de las primeras pruebas ciclistas
+|-
+| {{Bandera|ITA}} '''[[Giro de Lombardía]]'''
+| 1905-
+| ''[[Monumento (ciclismo)|Monumento]]''
+|-
+| {{Bandera|ITA}} '''[[Milán-San Remo]]'''
+| 1907-
+| ''[[Monumento (ciclismo)|Monumento]]''
+|-bgcolor=LightPink
+| {{Bandera|POR}} [[Oporto-Lisboa]]
+| 1911-2005
+| Considerada como una de las clásicas más largas (tuvo siempre entre 325 y 350 km). Tradicionalmente disputada como aficionada (''amateur'')
+|-
+| {{Bandera|BEL}} '''[[Tour de Flandes]]'''
+| 1913-
+| ''[[Monumento (ciclismo)|Monumento]]''
+|-bgcolor=LightPink
+| {{Bandera|SUI}} [[Campeonato de Zúrich|Campeonato de Zúrich/Gran Premio de Suiza/Gran Premio de Zúrich]]
+| 1914-2008
+| Perteneciente a la antigua [[Copa del Mundo de Ciclismo|Copa del Mundo]] y al [[UCI ProTour]]
+|-
+| {{Bandera|ESP}} [[Clásica de Ordizia]]
+| 1922-
+| Considerada como la primera clásica de España. Sus primeras ediciones fueron aficionadas (''amateur'')
+|-
+| '''[[Ruta élite masculina en el Campeonato Mundial de Ruta|Campeonato Mundial en Ruta]]'''
+| 1927-
+| Primer campeonato del mundo oficial de ciclismo en ruta
+|-
+| {{Bandera|FRA}} [[Bretagne Classic|Gran Premio de Plouay]]
+| 1931-
+| Perteneciente al [[UCI WorldTour]]
+|-
+| {{Bandera|BEL}} [[Gante-Wevelgem]]
+| 1934-
+| Perteneciente al [[UCI WorldTour]]
+|-
+| {{Bandera|BEL}} [[Flecha Valona]]
+| 1936-
+| Perteneciente al [[UCI WorldTour]]
+|-
+| {{Bandera|BEL}} [[E3 Prijs Vlaanderen-Harelbeke]]
+| 1958-
+| Perteneciente al [[UCI WorldTour]]
+|-
+| {{Bandera|GER}} [[Gran Premio de Fráncfort]]
+| 1962-
+| Perteneciente a la [[Copa del Mundo de Ciclismo 1995|Copa del Mundo 1995]]
+|-
+| {{Bandera|NLD}} [[Amstel Gold Race]]
+| 1966-
+| Perteneciente al [[UCI WorldTour]]
+|-
+| {{Bandera|ESP}} [[Clásica de San Sebastián]]
+| 1981-
+| Perteneciente al [[UCI WorldTour]]
+|-
+| {{Bandera|USA}} [[LoToJa Bicycle Classic]]
+| 1983-
+| Considerada como una de las clásicas más largas (ha tenido entre 299 y 332 km). Desde sus inicios aficionada (''amateur'')
+|-bgcolor=LightPink
+| {{Bandera|CAN}} [[Gran Premio de las Américas|Gran Premio de las Américas/Gran Premio Teleglobe]]
+| 1988-1992
+| Perteneciente a la antigua [[Copa del Mundo de Ciclismo|Copa del Mundo]]
+|-bgcolor=LightPink
+| {{Bandera|GBR}} [[Wincanton Classic|Wincanton Classic/Leeds International Classic/International Rochester Classic]]
+| 1989-1997
+| Perteneciente a la antigua [[Copa del Mundo de Ciclismo|Copa del Mundo]]
+|-bgcolor=LightPink
+| {{Bandera|FRA}} [[Clásica de los Alpes]]
+| 1991-2004
+| Considerada como la única clásica profesional de alta montaña
+|-
+| {{Bandera|JAP}} [[Japan Cup (ciclismo)|Japan Cup]]
+| 1992-
+| Perteneciente a la antigua [[Copa del Mundo de Ciclismo|Copa del Mundo]]
+|-
+| {{Bandera|BEL}} [[Vattenfall Cyclassics|HEW Cyclassics/Vattenfall Cyclassics]]
+| 1996-
+| Perteneciente al [[UCI WorldTour]]
+|-
+| {{Bandera|ITA}} [[Strade Bianche|Monte Paschi Eroica/Montepaschi Strade Bianche/Strade Bianche]]
+| 2007-
+| Primera prueba italiana profesional sobre asfalto no convencional (''[[Grava|sterrato]]'')
+|-
+| {{Bandera|CAN}} [[Gran Premio de Quebec]]
+| 2010-
+| Perteneciente al [[UCI WorldTour]]
+|-
+| {{Bandera|CAN}} [[Gran Premio de Montreal]]
+| 2010-
+| Perteneciente al [[UCI WorldTour]]
+|}
+* <small>En rosa carreras desaparecidas.</small>
+* <small>En negrita carreras especialmente destacadas.</small>
+
+==== Carreras por etapas ====
+{| class="wikitable sortable"
+|-
+!Carrera
+!Años
+!Características destacadas
+|-
+| '''{{Bandera|FRA}} [[Tour de Francia]]'''
+| 1903-
+| [[Grandes Vueltas|Gran Vuelta]]. Considerada como la primera prueba ciclista por etapas
+|-
+| {{Bandera|BEL}} [[Vuelta a Bélgica]]
+| 1908-
+| Una de las primeras pruebas ciclistas por etapas
+|-bgcolor=LightPink
+| {{Bandera|ESP}} [[Volta a Tarragona]]
+| 1908-2010
+| Primera prueba ciclista de España, aunque no tiene esa consideración debido a que no se comenzó a disputar regularmente desde 1964 y a que siempre ha sido aficionada (''amateur'')
+|-
+| '''{{Bandera|ITA}} [[Giro de Italia]]'''
+| 1909-
+| [[Grandes Vueltas|Gran Vuelta]]. Una de las primeras pruebas ciclistas por etapas
+|-
+| {{Bandera|ESP}} [[Volta a Cataluña]]
+| 1911-
+| Perteneciente al [[UCI WorldTour]]. Considerada como la primera prueba ciclista de España
+|-
+| {{Bandera|ESP}} [[Vuelta al País Vasco]]
+| 1924-
+| Perteneciente al [[UCI WorldTour]]
+|-
+| {{Bandera|POL}} [[Vuelta a Polonia]]
+| 1928-
+| Perteneciente al [[UCI WorldTour]]
+|-
+| {{Bandera|FRA}} [[París-Niza]]
+| 1933-
+| Perteneciente al [[UCI WorldTour]]
+|-
+| {{Bandera|SUI}} [[Vuelta a Suiza]]
+| 1933-
+| Perteneciente al [[UCI WorldTour]] y considerada como la 4ª [[Grandes Vueltas|Gran Vuelta]]
+|-
+| '''{{Bandera|ESP}} [[Vuelta a España]]'''
+| 1935-
+| [[Grandes Vueltas|Gran Vuelta]]
+|-
+| {{Bandera|URU}} [[Vuelta Ciclista del Uruguay]]
+| 1939-
+| Considerada como la primera prueba ciclista de América
+|-
+| {{Bandera|COL}} [[Vuelta a Colombia]]
+| 1951-
+| Una de las mejores carreras por etapas de América
+|-
+| {{Bandera|FRA}} [[Dauphiné Libéré|Dauphiné Libéré/Critérium del Dauphiné Libéré/Critérium del Dauphiné]]
+| 1947-
+| Perteneciente al [[UCI WorldTour]]
+|-
+| {{Bandera|SUI}} [[Tour de Romandía]]
+| 1947-
+| Perteneciente al [[UCI WorldTour]]
+|-bgcolor=LightPink
+| [[Archivo:Flag of East Germany.svg|25px]] {{Bandera|POL}} {{Bandera|CZE}} [[Carrera de la Paz]]
+| 1948-2006
+| Primera prueba por etapas que siempre cruzaba varios países
+|-
+| {{Bandera|ITA}} [[Tirreno Adriático]]
+| 1966-
+| Pereteneciente al [[UCI WorldTour]]
+|-bgcolor=LightPink
+| {{Bandera|GER}} [[Vuelta a Alemania]]
+| 1979-2008
+| Perteneciente al antiguo [[UCI ProTour]]
+|-
+| {{Bandera|AUS}} [[Tour Down Under]]
+| 1999-
+| Perteneciente al [[UCI WorldTour]]
+|-
+| {{Bandera|Benelux}} [[Tour del Benelux]]
+| 2005-
+| Perteneciente al [[UCI WorldTour]]
+|-bgcolor=LightPink
+| {{Bandera|CHN}} [[Tour de Pekín]]
+| 2011-2014
+| Perteneciente al [[UCI WorldTour]]
+|}
+* <small>En rosa carreras desaparecidas.</small>
+* <small>En negrita carreras especialmente destacadas.</small>
+
+==== Contrarrelojes ====
+{| class="wikitable sortable"
+|-
+!Carrera
+!Subtipo
+!Años
+!Características destacadas
+|-bgcolor=LightPink
+| {{Bandera|FRA}} [[Gran Premio de las Naciones]]
+| Individual
+| 1932-2003
+| Perteneciente a la antigua [[Copa del Mundo de Ciclismo|Copa del Mundo]]. Hasta 1993 fue considerada como el [[Contrarreloj élite masculina en el Campeonato Mundial de Ruta|Campeonato del Mundo Contrarreloj]] oficioso
+|-bgcolor=LightPink
+| [[Archivo:Olympic flag.svg|25px]] '''Prueba Contrarreloj por Equipos de los Juegos Olímpicos'''
+| Por equipos
+| 1960-1992
+| Primera prueba de ciclismo contrarreloj por equipos en los [[Juegos Olímpicos]] (en este caso los equipos estuvieron formados por selecciones)
+|-
+| '''[[Contrarreloj élite masculina en el Campeonato Mundial de Ruta#Palmarés por equipos|Campeonato Mundial Contrarreloj por equipos]]'''
+| Por equipos
+| 1962-1994, 2012-
+| Primer campeonato del mundo oficial contrarreloj por equipos (en este caso los equipos estuvieron formados por selecciones y a partir del 2012 por equipos)
+|-bgcolor=LightPink
+| {{Bandera|NLD}} [[Grand Prix de la Libération]]
+| Por equipos
+| 1988-1991
+| Perteneciente a la antigua [[Copa del Mundo de Ciclismo|Copa del Mundo]]
+|-
+|-bgcolor=LightPink
+| {{Bandera|ITA}} [[Trofeo Baracchi]]
+| Individual
+| 1991
+| Perteneciente a la [[Copa del Mundo de Ciclismo 1991|Copa del Mundo 1991]] (de 1944 a 1990 se disputó en forma de clásica)
+|-
+| '''[[Contrarreloj élite masculina en el Campeonato Mundial de Ruta|Campeonato Mundial Contrarreloj]]'''
+| Individual
+| 1994-
+| Primer campeonato del mundo oficial contrarreloj
+|-
+| [[Archivo:Olympic flag.svg|25px]] '''Prueba Contrarreloj Individual de los Juegos Olímpicos'''
+| Individual
+| 1996-
+| Primera prueba de ciclismo contrarreloj individual en los [[Juegos Olímpicos]]
+|-bgcolor=LightPink
+| {{Bandera|NLD}} [[Contrarreloj por Equipos ProTeam]]
+| Por equipos
+| 2005-2006
+| Perteneciente al antiguo [[UCI ProTour]]
+|}
+* <small>En rosa carreras desaparecidas.</small>
+* <small>En negrita carreras especialmente destacadas.</small>
+
+=== Cronología de las principales pruebas ciclistas femeninas ===
+Debido a que el ciclismo femenino empezó a ser profesional en los [[años 90]] y a la no continuidad de ellas estas pruebas ciclistas son mucho menos conocidas que las masculinas y algunas de ellas se disputan bajo el "soporte" de las masculinas, siendo las más importantes o significativas las siguientes, ordenadas por tipo y orden de creación:
+==== Clásicas ====
+{| class="wikitable sortable"
+|-
+!Carrera
+!Años
+!Características destacadas
+|-
+| '''[[Ruta élite femenina en el Campeonato Mundial de Ruta|Campeonato Mundial en Ruta]]'''
+| 1958-
+| Primer campeonato del mundo femenino de ciclismo en ruta. Considerada como la primera prueba ciclista femenina
+|-
+| {{Bandera|ITA}} [[Trofeo Alfredo Binda-Comune di Cittiglio]]
+| 1979-
+| Una de las primeras pruebas ciclistas femeninas aunque en sus primeras ediciones aficionada ''(amateur)''. Perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]] desde 2008
+|-bgcolor=LightPink
+| {{Bandera|SUI}} [[Tour de Berna]]
+| 1979-
+| Una de las primeras pruebas ciclistas femeninas aunque su segunda edición no se llegó a disputar hasta 1988. Entre 2006 y 2009 perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]]. En 1979-1988 y a partir del 2012 aficionada (''amateur'').
+|-
+| [[Archivo:Olympic flag.svg|25px]] '''Prueba en Ruta de los Juegos Olímpicos'''
+| 1988-
+| Primera prueba de ciclismo en ruta femenina en los [[Juegos Olímpicos]]. Una de las primeras pruebas ciclistas femeninas
+|-bgcolor=LightPink
+| {{Bandera|USA}} [[Liberty Classic]]
+| 1994-
+| Perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]] 1998 y 2001
+|-bgcolor=LightPink
+| {{Bandera|FRA}} [[Trophée International de Saint-Amand-Montrond]]
+| 1996-2001
+| En sus primeras ediciones y en 2000 aficionada (''amateur''). Perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]] 1998, 1999 y 2001
+|-bgcolor=LightPink
+| {{Bandera|GER}} [[Vuelta a Nuremberg]]
+| 1997-2010
+| Perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]] 2003 y 2009
+|-bgcolor=LightPink
+| {{Bandera|SUI}} [[Damen Weltcup G. P. Tell/UCI Weltcupfinale Embrach/Gran Premio de Suiza Femenino]]
+| 1998-2002
+| Perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]]
+|-bgcolor=LightPink
+| {{Bandera|AUS}} [[Sydney World Cup/Canberra World Cup/Geelong World Cup]]
+| 1998-2008
+| Perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]]
+|-bgcolor=LightPink
+| {{Bandera|CAN}} [[La Coupe du Monde Cycliste Féminine de Montréal]]
+| 1998-2009
+| Perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]]
+|-bgcolor=LightPink
+| {{Bandera|NLD}} [[Ladies Tour Beneden Maas]]
+| 1998-1999
+| Perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]]
+|-
+| {{Bandera|BEL}} [[Flecha Valona Femenina]]
+| 1998-
+| Desde 1999 perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]]
+|-bgcolor=LightPink
+| {{Bandera|ITA}} [[Primavera Rosa]]
+| 1999-2005
+| Perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]]
+|-bgcolor=LightPink
+| {{Bandera|AUS}} [[Hamilton City World Cup]]
+| 1999, 2001-2002
+| Perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]]
+|-bgcolor=LightPink
+| {{Bandera|NLD}} [[Rotterdam Tour]]
+| 2000-2006
+| Perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]]
+|-bgcolor=LightPink
+| {{Bandera|NLD}} [[Amstel Gold Race femenina|Amstel Gold Race]]
+| 2001-2003
+| Perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]] 2003
+|-
+| {{Bandera|GER}} [[Sparkassen Giro Bochum]]
+| 2001-
+| Desde 2014 perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]]
+|-bgcolor=LightPink
+| {{Bandera|ESP}} [[Gran Premio Castilla y León]]
+| 2002-2006
+| Perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]]
+|-
+| {{Bandera|FRA}} [[Gran Premio Femenino de Plouay|Gran Premio de Plouay/Gran Premio de Plouay-Bretaña]]
+| 2002-
+| Perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]]
+|-
+| {{Bandera|BEL}} [[Tour de Flandes femenino|Tour de Flandes]]
+| 2004-
+| Perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]]
+|-bgcolor=LightPink
+| {{Bandera|GBR}} [[Gran Premio de Gales]]
+| 2005
+| Perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]]
+|-bgcolor=LightPink
+| {{Bandera|SUI}} [[L'Heure D'Or Féminine]]
+| 2006
+| Perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]]
+|-bgcolor=LightPink
+| {{Bandera|NZL}} [[New Zealand World Cup]]
+| 2006-2007
+| Perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]]
+|-
+| {{Bandera|SWE}} [[Open de Suède Vargarda]]
+| 2006-
+| Perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]]
+|-
+| {{Bandera|NLD}} [[Tour de Drenthe femenino|Tour de Drenthe/Univé Tour de Drenthe/Tour de Drenthe]]
+| 2007-
+| Perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]]
+|-bgcolor=LightPink
+| {{Bandera|ESP}} [[Gran Premio Ciudad de Valladolid]]
+| 2010-2011
+| Perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]]
+|-
+| {{Bandera|CHN}} [[Tour de la Isla de Chongming Copa del Mundo]]
+| 2010-
+| Perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]]
+|-
+| {{Bandera|USA}} [[Parx Casino Philly Cycling Classic]]
+| 2013-
+| Desde 2015 perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]]
+|}
+* <small>En rosa carreras desaparecidas.</small>
+* <small>En negrita carreras especialmente destacadas.</small>
+
+==== Carreras por etapas ====
+{| class="wikitable sortable"
+|-
+!Carrera
+!Años
+!Características destacadas
+|-bgcolor=LightPink
+| '''{{Bandera|FRA}} [[Grande Boucle|Tour de Francia Femenino/Tour de la CEE Femenino/Tour Cycliste Féminin/Grande Boucle]]'''
+| 1955-2009
+| [[Grandes Vueltas femeninas|Gran Vuelta]]. Considerada como la primera prueba ciclista femenina aunque su segunda edición no se llegó a disputar hasta 1984
+|-bgcolor=LightPink
+| '''{{Bandera|FRA}} [[Tour de l'Aude Femenino]]'''
+| 1985-2010
+| [[Grandes Vueltas femeninas|Gran Vuelta]]. Una de las primeras pruebas ciclistas femeninas
+|-
+| {{Bandera|CZE}} [[Gracia-Orlová|Družba Žen/Gracia Tour/Gracia ČEZ-EDĚ/Gracia-Orlová]]
+| 1987-
+| Una de las primeras pruebas ciclistas femeninas siendo la carrera por etapas más antigua en activo. En sus primeras ediciones aficionada (''amateur'') hasta el 2004 donde empezó ser profesional
+|-
+| {{Bandera|FRA}} [[Tour de Bretaña femenino]]
+| 1987-
+| Una de las primeras pruebas ciclistas femeninas siendo la segunda carrera por etapas más antigua en activo. En sus primeras ediciones aficionada (''amateur'') hasta el 2004 donde empezó ser profesional<ref>En 2001 también fue profesional.</ref>
+|-
+| {{Bandera|ESP}} [[Emakumeen Euskal Bira|Emakumeen Bira/Iurreta-Emakumeen Bira/Emakumeen Euskal Bira]]
+| 1988-
+| Primera prueba ciclista femenina de España, en sus primeras ediciones aficionada (''amateur'') hasta el 2004 donde empezó ser profesional catalogada con la máxima categoría para vueltas por etapas<ref name="2.HC">A excepción del 2013 donde existió una categoría superior (2.HC) para el [[Premondiale Giro Toscana Int. Femminile-Memorial Michela Fanini]] pero solo en ese año.</ref>
+|-
+| '''{{Bandera|ITA}} [[Giro de Italia Femenino]]'''
+| 1988-
+| [[Grandes Vueltas femeninas|Gran Vuelta]]. Una de las primeras pruebas ciclistas femeninas
+|-
+| {{Bandera|GER}} [[Tour de Thüringe Femenino]]
+| 1988-
+| Una de las primeras pruebas ciclistas femeninas. En sus primeras ediciones aficionada (''amateur'') hasta el 2004 donde empezó ser profesional catalogada con la máxima categoría para vueltas por etapas<ref name="2.HC"/>
+|-
+| {{Bandera|CZE}} [[Tour de Feminin-O cenu Ceskeho Svycarska|Tour de Feminin-Krasna Lipa/Tour de Feminin-O cenu Ceskeho Svycarska]]
+| 1988-
+| Una de las primeras pruebas ciclistas femeninas. En sus primeras ediciones aficionada (''amateur'') hasta el 2003 donde empezó ser profesional
+|-
+| {{Bandera|ITA}} [[Giro del Trentino Alto Adige-Südtirol]]
+| 1994-
+| En sus primeras ediciones aficionada (''amateur'') hasta el 2004 donde empezó ser profesional catalogada con la máxima categoría para vueltas por etapas<ref name="2.HC"/>
+|-
+| {{Bandera|ITA}} [[Giro della Toscana Int. Femminile-Memorial Michela Fanini|Giro della Toscana Int. Femminile-Memorial Michela Fanini/Premondiale Giro Toscana Int. Femminile-Memorial Michela Fanini]]
+| 1995-
+| En sus primeras ediciones aficionada (''amateur'') siendo su primera edición dos carreras de un día independientes. Desde el 2002 hasta el 2013 catalogada con la máxima categoría para vueltas por etapas
+|-
+| {{Bandera|NLD}} [[Holland Ladies Tour|Holland Ladies Tour/Profile Ladies Tour/BrainWash Ladies Tour/Boels Rental Ladies Tour]]
+| 1998-
+| De 2001 al 2006, y desde 2011 catalogada con la máxima categoría para vueltas por etapas<ref name="2.HC"/>
+|-
+| {{Bandera|NLD}} [[Novilon Internationale Damesronde van Drenthe]]
+| 1998-
+| Cuando se disputó a modo de carrera por etapas (2003-2006) catalogada con la máxima categoría para vueltas por etapas
+|-bgcolor=LightPink
+| {{Bandera|ESP}} [[Vuelta a Castilla y León femenina|Vuelta a Castilla y León]]
+| 2001-2005
+| En sus primeras ediciones aficionada (''amateur'') hasta el 2003 donde empezó ser profesional catalogada con la máxima categoría para vueltas por etapas
+|-bgcolor=LightPink
+| {{Bandera|ESA}} [[Vuelta El Salvador|Vuelta Ciclista Femenina a El Salvador/Vuelta El Salvador]]
+| 2004-2008, 2012-2014
+| Su primera edición aficionada (''amateur''). En 2005, 2006 y desde 2012 catalogada con la máxima categoría para vueltas por etapas<ref name="2.HC"/>
+|-bgcolor=LightPink
+| {{Bandera|CAN}} [[Le Tour du Grand Montréal]]
+| 2004-2009
+| Catalogada con la máxima categoría para vueltas por etapas
+|-
+| {{Bandera|FRA}} [[La Route de France]]
+| 2006-
+| Desde 2007 catalogada con la máxima categoría para vueltas por etapas.<ref name="2.HC"/> Considerada como la sucesora de la [[Grande Boucle]]
+|-
+| {{Bandera|CHN}} [[Tour de la Isla de Chongming]]
+| 2007-
+| Desde 2009 catalogada con la máxima categoría para vueltas por etapas<ref name="2.HC"/>
+|-
+| {{Bandera|LUX}} [[Festival Luxemburgués de Ciclismo Femenino Elsy Jacobs|Gran Premio Elsy Jacobs/Festival Luxemburgués de Ciclismo Femenino Elsy Jacobs]]
+| 2009-
+| Desde 2012 catalogada con la máxima categoría para vueltas por etapas.<ref name="2.HC"/> Anteriormente fue carrera de un día
+|-
+| {{Bandera|QAT}} [[Tour de Catar Femenino]]
+| 2008-
+| Catalogada con la máxima categoría para vueltas por etapas<ref name="2.HC"/>
+|-bgcolor=LightPink
+| {{Bandera|RSA}} [[Tour de Free State]]
+| 2012
+| Catalogada con la máxima categoría para vueltas por etapas
+|-bgcolor=LightPink
+| {{Bandera|USA}} [[The Exergy Tour]]
+| 2012
+| Catalogada con la máxima categoría para vueltas por etapas
+|-
+| {{Bandera|GBR}} [[The Women´s Tour]]
+| 2014-
+| Catalogada con la máxima categoría para vueltas por etapas
+|}
+* <small>En rosa carreras desaparecidas.</small>
+* <small>En negrita carreras especialmente destacadas.</small>
+
+==== Contrarrelojes ====
+{| class="wikitable sortable"
+|-
+!Carrera
+!Subtipo
+!Años
+!Características destacadas
+|-
+| '''[[Contrarreloj élite femenina en el Campeonato Mundial de Ruta#Palmarés por equipos|Campeonato Mundial Contrarreloj por equipos]]'''
+| Por equipos
+| 1987-1994, 2012-
+| Primer campeonato del mundo femenino contrarreloj por equipos (en este caso los equipos estuvieron formados por selecciones y a partir del 2012 por equipos). Una de las primeras pruebas ciclistas femeninas
+|-
+| {{Bandera|FRA}} [[Chrono des Nations femenina|Chrono des Nations]]
+| Individual
+| 1987-
+| Una de las primeras pruebas ciclistas femeninas. Hasta 1993 fue considerada como el [[Contrarreloj élite masculina en el Campeonato Mundial de Ruta|Campeonato del Mundo Contrarreloj]] oficioso
+|-
+| '''[[Contrarreloj élite femenina en el Campeonato Mundial de Ruta|Campeonato Mundial Contrarreloj]]'''
+| Individual
+| 1994-
+| Primer campeonato del mundo femenino contrarreloj
+|-
+| [[Archivo:Olympic flag.svg|25px]] '''Prueba Contrarreloj de los Juegos Olímpicos'''
+| Individual
+| 1996-
+| Primera prueba de ciclismo contrarreloj femenina en los [[Juegos Olímpicos]]
+|-
+| {{Bandera|SWE}} [[Open de Suède Vargarda TTT]]
+| Por equipos
+| 2008-
+| Perteneciente a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]]
+|}
+
+=== Las categorías ===
+Dependiendo de su nivel competitivo las diferentes pruebas se dividen en varios tipos.
+
+Así, las carreras élite (sin limitación de edad) o sub-23 reconocidas por la [[Unión Ciclista Internacional|UCI]] se consideran '''profesionales'''; debido a las pocas licencias femeninas y a lo limitado de su calendario no existen carreras sub-23 profesionales femeninas. Las élite o sub-23 reconocidas por una federación nacional o que incumplen alguna normativa UCI se consideran '''amateurs''' (o aficionadas), permitiendo la UCI cierto número de corredores profesionales -estas a veces están indicadas con una "N" ó "NE": ''National Event''-. Finalmente las que no están reguladas por ningún organismo o su normativa es un tanto ambigua dependiendo del país se consideran carreras de exhibición no oficiales o "romerías";<ref>[http://www.biciciclismo.com/cas/site/noticias-ficha.asp?id=60924 La UCI, contra las romerías… y contra algunas organizaciones más serias]</ref> (las carreras amateurs y estas no oficiales también pueden ser [[critérium]]s si se disputan en un circuito fijo cerrado incluso combinándose en ellas varias pruebas como la "puntuación" o "eliminación" más típicas del [[ciclismo en pista]]).
+
+También hay carreras de categorías inferiores aunque con un nivel de preparación no tan profesionalizado como las anteriores y se dividen en categorías de edad.
+
+A pesar de que algunos [[critérium]]s, carreras de categoría ''junior'' (juvenil), o pruebas [[cicloturismo|cicloturistas]] estén en los calendarios de la UCI estas no se consideran profesionales pero están reconocidas por dicho organismo debido a que tienen la consideración de internacionales.
+
+==== Categorías profesionales ====
+Debido al gran número de pruebas masculinas estas se dividen en varias clasificaciones con sus diferentes categorías, estas desde el 2005 son las siguientes:
+
+* '''[[UCI WorldTour]]''' (anteriormente [[UCI ProTour]] y [[UCI World Ranking]]), en las que se encuadran las [[Grandes Vueltas]], las clásicas de la antigua [[Copa del Mundo de Ciclismo|Copa del Mundo]] y otras carreras mundiales de importancia. Con los pequeños cambios de la desaparición del [[Campeonato de Zurich]] (2007), el descenso de categoría de la [[París-Tours]] (2008) y las inclusiones de las pruebas no europeas del [[Tour Down Under]] (2008), [[Gran Premio de Quebec]] (2010), [[Gran Premio de Montreal]] (2010) y [[Tour de Pekín]] (2011). Las cuatro últimas introducidas directamente al crearse en dicho calendario mundial. Su nivel viene predeterminado por este baremo:
+** ''Categoría 1'': [[Tour de Francia]]
+** ''Categoría 2'': [[Giro de Italia]] - [[Vuelta a España]]
+** ''Categoría 3'': [[Monumento (ciclismo)|Monumentos del ciclismo]] - Vueltas menores
+** ''Categoría 4'': Clásicas menores
+
+* '''[[Circuitos Continentales UCI]]''', en las que se encuadran el resto de carreras profesionales subdividas por continentes. Su nivel viene predeterminado por este baremo con la particularidad de que las pruebas pertenecientes a la [[Copa de las Naciones UCI]] (.NCup) también puntúan para una clasificación independiente. Su nivel viene predeterminado por este baremo:
+** ''Categoría 1'': [[Campeonato Mundial de Ciclismo en Ruta|CM (en ruta)]] y JO (en ruta)
+** ''Categoría 2'': 1.HC, 2.HC, CC (en ruta), [[Campeonato Mundial de Ciclismo en Ruta#Palmarés de la prueba contrarreloj élite masculina|CM (contrarreloj)]], [[Campeonato Mundial de Ciclismo en Ruta|CM sub-23 (en ruta)]] y JO (contrarreloj)
+** ''Categoría 3'': 1.1, 2.1 y CC (en ruta sub-23)
+** ''Categoría 4'': 1.2, 2.2, 1.Ncup, 2.Ncup y [[Campeonato Mundial de Ciclismo en Ruta|CM sub-23 (contrarreloj)]]
+** ''Categoría 5'': CC (contrarreloj)
+** ''Categoría 6'': CC (contrarreloj sub-23)
+
+En el ciclismo femenino al haber menos pruebas solo hay una clasificación única con la particularidad de que las pruebas pertenecientas a la [[Copa del Mundo de Ciclismo femenina|Copa del Mundo femenina]] también puntúan para una clasificación independiente. Su nivel viene predeterminado por este baremo:
+* ''Categoría 1'': [[Campeonato Mundial de Ciclismo en Ruta|CM (en ruta)]] y JO (en ruta)
+* ''Categoría 2'': [[Copa del Mundo de Ciclismo femenina|Copa del Mundo]], [[Campeonato Mundial de Ciclismo en Ruta#Palmarés de la prueba contrarreloj élite femenina|CM (contrarreloj)]] y JO (contrarreloj)
+* ''Categoría 2'': 1.HC, 2.HC, CC Europa (en ruta) y [[Campeonato Panamericano de Ciclismo en Ruta#Competiciones en ruta femeninas|CC América (en ruta)]]
+* ''Categoría 3'': 1.1, 2.1 y CC Asia (en ruta)
+* ''Categoría 4'': 1.2, 2.2, [[Campeonato Africano de Ciclismo#Competiciones femeninas|CC África (en ruta)]] y [[Campeonato Oceánico de Ciclismo en Ruta#Competiciones femeninas|CC Oceanía (en ruta)]]
+* ''Categoría 5'': CC Europa (contrarreloj) y [[Campeonato Panamericano de Ciclismo en Ruta#Competiciones en ruta femeninas|CC América (contrarreloj)]]
+* ''Categoría 6'': CC Asia (contrarreloj)
+* ''Categoría 7'': [[Campeonato Africano de Ciclismo en Ruta#Competiciones femeninas|CC África (contrarreloj)]] y [[Campeonato Oceánico de Ciclismo en Ruta#Competiciones femeninas|CC Oceanía (contrarreloj)]]
+
+== Tipos de ciclistas ==
+{{AP|Categoría:Tipos de ciclista}}
+Dependiendo de las cualidades de cada ciclista se suelen agrupar en varios tipos, no excluyentes entre sí, los términos más comunes son:
+* [[Clasicómano]]
+* [[Escalador (ciclismo)|Escalador]]
+* [[Esprínter]]
+* [[Rodador]] o ''pasista'' o contrarrelojista
+
+== Equipos ==
+{{AP|Equipo ciclista}}
+Los ciclistas se juntan o son contratados para competir en eventos de [[ciclismo]], ya sean profesionales o amateur. Los equipos ciclistas son especialmente importantes en ciclismo en ruta y [[ciclismo en pista]] existiendo a nivel mundial miles de equipos ciclistas de todo tipo.
+
+En principio fueron contratados individualmente pero tras la profesionalización de esta disciplina ciclista se hizo imprescindible una coordinación y tácticas comunes en carrera de cara a conseguir los objetivos.
+
+Desde 1997 estos grupos fueron denominados oficialmente simplemente por GS1, GS2 o GS3. Donde la "GS" significaba ''Groupes sportifs''. Agrupados dependiendo de su nivel deportivo lo que le daba acceso a unas u otras carreras.
+
+Desde el 2005 los mejores equipos profesionales se agrupan en el '''[[UCI ProTeam]]''' para competir en el [[UCI WorldTour]] que es una competición ciclista impulsada por la [[Unión Ciclista Internacional]], en algunos aspectos sustitutiva de la antigua [[Copa del Mundo de Ciclismo]]. El resto se agrupa en '''[[Circuitos Continentales UCI#Profesionales Continentales|Profesionales Continentales]]''', que son un grupo intermedio ya que pueden participar en las pruebas [[UCI WorldTour]] mediante invitación; y los '''[[Circuitos Continentales UCI#Continentales|Continentales]]''', que están en un escalafón más bajo teniendo una consideración de semi-profesionales. Todos los equipos pueden participar en las carreras de los [[Circuitos Continentales UCI]] pero dependiendo su categoría tienen acceso a unas u otras siendo en las del [[UCI Europe Tour]] donde existe una mayor limitación.
+
+En el ciclismo femenino existe una categoría única con los mismos requisitos que los [[Circuitos Continentales UCI#Continentales|Continentales]]. Esto se debe a que apenas hay una treintena de equipos profesionales registrados y muchos de ellos no pueden disputar pruebas internacionales debido a su ajustado presupuesto por lo que apenas hay problemas de participación e invitaciones a esas pruebas.
+
+== Véase también ==
+{{Portal|Ciclismo}}
+* [[Ciclismo]]
+* [[Ciclismo de competición]]
+* [[Ciclismo en los Juegos Olímpicos]]
+
+== Notas y referencias ==
+{{listaref}}
+
+[[Categoría:Ciclismo en ruta| ]]
